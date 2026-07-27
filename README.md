@@ -19,7 +19,9 @@ Como Engenheiro de Dados na Neogrid, desenvolvo e mantenho pipelines críticos q
 Acredito no poder do Open Source! Aqui estão alguns projetos onde deixei minha marca:
 
 🔥 **Principais Contribuições**
-
+**LangChain4j Community (Java, Maven, Apache Arrow, JUnit) LanceDB
+   PR #710 (Merged):
+   Autor da integração oficial do vector store LanceDB no LangChain4j Community. Criei o módulo langchain4j-community-lancedb do zero: implementação do EmbeddingStore sobre o cliente Java nativo do LanceDB (Arrow), mapper    próprio de filtros de metadados e suíte de testes de integração baseada nos contratos oficiais do projeto (EmbeddingStoreWithFilteringIT / EmbeddingStoreWithRemovalIT). PR aprovado após ciclos de review com          mantenedores e debug de falhas de CI em ambiente containerizado.
 * **Quarkus LangChain4j 🤖**
     * **PR #2509 (Merged):** Refatoração e renomeação de `maxSequentialToolInvocations` para `maxToolCallingRoundTrips`, alinhando a extensão Quarkus com a API upstream do LangChain4j.
     * Esta alteração abrangeu múltiplas camadas (annotation, config, runtime, deployment processor) mantendo a retrocompatibilidade com `@Deprecated(forRemoval=true)`.
