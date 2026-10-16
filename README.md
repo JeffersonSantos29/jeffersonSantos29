@@ -63,7 +63,7 @@ SDD na prática - Integração Declarativa com LangChain4j para a camada de IA, 
 * **Linguagens:** Java (principal), C#, Python (PySpark, Boto3, Pandas), SQL (T-SQL), Shell Script.
 * **Frameworks:** Spring Boot, Spring Cloud, Quarkus, .NET, LangChain4j.
 * **Arquitetura:** Microsserviços, REST APIs, Clean Code, SOLID, DDD, Event-Driven.
-* **Dados & ETL:** Pipelines ETL/ELT, Data Lake, Data Warehousing, Modelagem de Dados, Mage, PySpark.
+* **Dados & ETL:** Pipelines ETL/ELT, Data Lake, Data Warehousing, Modelagem de Dados, PySpark.
 * **Big Data:** Apache Spark, Databricks, Hadoop, Hive.
 * **Cloud:** AWS (S3, Athena, EMR), Azure (ADF, Blob Storage), Huawei Cloud.
 * **Bancos de Dados:** SQL Server (Performance Tuning, Administração), NoSQL.
